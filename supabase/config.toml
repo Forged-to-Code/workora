@@ -1,0 +1,4 @@
+[functions.parse-query]
+verify_jwt = false
+[functions.contact]
+verify_jwt = false
